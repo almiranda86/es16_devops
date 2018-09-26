@@ -1,5 +1,6 @@
 # es16_devops
 
 Edward Norton
-Ian Mckellen
+Bruce Willies
 Joaquim Phoenix
+Tarantino
